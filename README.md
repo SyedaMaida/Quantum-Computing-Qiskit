@@ -56,6 +56,7 @@ Installation
 
 # Clone the repository
 git clone https://github.com/SyedaMaida/Quantum-Computing-Qiskit.git
+
 cd quantum-hackathon
 # Install required packages
 pip install qiskit qiskit-aer qiskit-ibmq-provider matplotlib numpy
